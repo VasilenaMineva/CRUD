@@ -1,0 +1,15 @@
+C:\Users\STUDENTS-STEM-4\Desktop\krastanskii\CRUD-ORM-Vasilena-11a\bin\Debug\CRUD-ORM-Vasilena-11a.exe.config
+C:\Users\STUDENTS-STEM-4\Desktop\krastanskii\CRUD-ORM-Vasilena-11a\bin\Debug\CRUD-ORM-Vasilena-11a.exe
+C:\Users\STUDENTS-STEM-4\Desktop\krastanskii\CRUD-ORM-Vasilena-11a\bin\Debug\CRUD-ORM-Vasilena-11a.pdb
+C:\Users\STUDENTS-STEM-4\Desktop\krastanskii\CRUD-ORM-Vasilena-11a\bin\Debug\EntityFramework.dll
+C:\Users\STUDENTS-STEM-4\Desktop\krastanskii\CRUD-ORM-Vasilena-11a\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\STUDENTS-STEM-4\Desktop\krastanskii\CRUD-ORM-Vasilena-11a\bin\Debug\EntityFramework.xml
+C:\Users\STUDENTS-STEM-4\Desktop\krastanskii\CRUD-ORM-Vasilena-11a\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\STUDENTS-STEM-4\Desktop\krastanskii\CRUD-ORM-Vasilena-11a\obj\Debug\CRUD-ORM-Vasilena-11a.csproj.AssemblyReference.cache
+C:\Users\STUDENTS-STEM-4\Desktop\krastanskii\CRUD-ORM-Vasilena-11a\obj\Debug\CRUD-ORM-Vasilena-11a.csproj.SuggestedBindingRedirects.cache
+C:\Users\STUDENTS-STEM-4\Desktop\krastanskii\CRUD-ORM-Vasilena-11a\obj\Debug\CRUD-ORM-Vasilena-11a.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-STEM-4\Desktop\krastanskii\CRUD-ORM-Vasilena-11a\obj\Debug\CRUD-ORM-Vasilena-11a.csproj.CopyComplete
+C:\Users\STUDENTS-STEM-4\Desktop\krastanskii\CRUD-ORM-Vasilena-11a\obj\Debug\CRUD-ORM-Vasilena-11a.exe
+C:\Users\STUDENTS-STEM-4\Desktop\krastanskii\CRUD-ORM-Vasilena-11a\obj\Debug\CRUD-ORM-Vasilena-11a.pdb
+C:\Users\STUDENTS-STEM-4\Desktop\krastanskii\CRUD-ORM-Vasilena-11a\obj\Debug\CRUD_ORM_Vasilena_11a.Migrations.InitialMigration.resources
+C:\Users\STUDENTS-STEM-4\Desktop\krastanskii\CRUD-ORM-Vasilena-11a\obj\Debug\CRUD-ORM-Vasilena-11a.csproj.GenerateResource.cache
